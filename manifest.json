@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "description": "Loja de livros usados (sebo) ao autêntico estilo recifense",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Alma Sebosa Sebo Livraria",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Alma Sebosa Livraria",
+  "start_url": "/#!",
+  "theme_color": "#000000",
+  "categories": [
+    "books",
+    "education",
+    "photo",
+    "shopping"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/tsunami.svg",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt"
+}
